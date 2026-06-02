@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl'
+import { Link } from '@/i18n/navigation'
 import { SocialLinks } from './SocialLinks'
 import { PROFILE } from '@/lib/constants'
 
@@ -16,7 +17,15 @@ export function Footer() {
             © {year} · {t('rights')}
           </p>
         </div>
-        <SocialLinks variant="strip" />
+        <div className="flex flex-col items-center gap-4 md:items-end">
+          <SocialLinks variant="strip" />
+          <Link
+            href="/admin/login"
+            className="text-xs text-text-muted/40 transition-colors hover:text-text-muted"
+          >
+            Admin
+          </Link>
+        </div>
       </div>
     </footer>
   )
