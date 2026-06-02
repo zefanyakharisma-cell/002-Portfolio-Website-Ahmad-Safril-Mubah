@@ -1,0 +1,12 @@
+import { defineRouting } from 'next-intl/routing'
+
+export const routing = defineRouting({
+  locales: ['en', 'id'],
+  defaultLocale: 'en',
+})
+
+export type Locale = (typeof routing.locales)[number]
+
+export function isValidLocale(value: string | undefined): value is Locale {
+  return !!value && (routing.locales as readonly string[]).includes(value)
+}

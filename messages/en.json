@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Ahmad Safril Mubah — International Relations Scholar",
+    "description": "Academic portfolio of Ahmad Safril Mubah, Vice Dean and Lecturer in International Relations at FISIP, Universitas Airlangga. Research on the Indo-Pacific, US–China competition, soft power, and terrorism."
+  },
+  "nav": {
+    "about": "About",
+    "research": "Research",
+    "publications": "Publications",
+    "teaching": "Teaching",
+    "media": "Media",
+    "cv": "CV",
+    "contact": "Contact",
+    "downloadCv": "Download CV",
+    "menu": "Menu"
+  },
+  "toggles": {
+    "theme": "Toggle light/dark mode",
+    "locale": "Switch language"
+  },
+  "hero": {
+    "credentials": "S.IP., M.Hub.Int., Ph.D.",
+    "title": "Vice Dean & Lecturer · Department of International Relations",
+    "institution": "FISIP · Universitas Airlangga",
+    "tagline": "Researcher at the intersection of power, diplomacy, and the Indo-Pacific order.",
+    "viewPublications": "View Publications",
+    "downloadCv": "Download CV",
+    "photoAlt": "Portrait of Ahmad Safril Mubah"
+  },
+  "about": {
+    "heading": "About",
+    "bio1": "Ahmad Safril Mubah is Vice Dean and Lecturer at the Department of International Relations, Faculty of Social and Political Sciences (FISIP), Universitas Airlangga. He holds a Ph.D. in Asia Pacific Studies from National Chengchi University (Taiwan) and specialises in the geopolitics of the Indo-Pacific, US–China strategic competition, soft power, and the dynamics of terrorism in the era of globalisation.",
+    "bio2": "His research has been published in leading peer-reviewed journals including Issues and Studies and the Journal of Marine and Island Cultures, and has been cited over 560 times across Google Scholar and Scopus. He is a reviewer for Jurnal Hubungan Internasional and a researcher affiliated with Cakra Studi Global Strategis at FISIP UNAIR.",
+    "educationHeading": "Education",
+    "education": [
+      { "degree": "Ph.D. · Asia Pacific Studies", "institution": "National Chengchi University, Taiwan" },
+      { "degree": "M.Hub.Int. · International Relations", "institution": "Universitas Airlangga" },
+      { "degree": "S.IP. · International Relations", "institution": "Universitas Airlangga" }
+    ],
+    "metrics": [
+      { "value": "562+", "label": "Citations" },
+      { "value": "3", "label": "Scopus h-index" },
+      { "value": "18+", "label": "Years Active" }
+    ]
+  },
+  "research": {
+    "heading": "Research Themes",
+    "subheading": "Four lines of inquiry shaping the work."
+  },
+  "publications": {
+    "heading": "Publications",
+    "filters": {
+      "all": "All",
+      "article": "Journal Articles",
+      "book": "Books",
+      "chapter": "Book Chapters"
+    },
+    "sort": {
+      "newest": "Newest first",
+      "cited": "Most cited"
+    },
+    "citations": "{count, plural, one {# citation} other {# citations}}",
+    "types": {
+      "article": "Article",
+      "book": "Book",
+      "chapter": "Chapter"
+    },
+    "viewAll": "View all on Google Scholar",
+    "empty": "Publications will appear here soon."
+  },
+  "teaching": {
+    "heading": "Teaching",
+    "subheading": "Courses taught at the Department of International Relations.",
+    "syllabus": "Syllabus",
+    "courses": [
+      { "title": "Terrorism Studies", "description": "Transnational extremist networks, counter-terrorism, and the politics of political violence." },
+      { "title": "Globalization & Information Society", "description": "How global flows of information, capital, and people reshape states and societies." },
+      { "title": "Foreign Policy Analysis", "description": "Frameworks for understanding how states make and justify foreign policy decisions." },
+      { "title": "Asia Pacific Studies", "description": "Regional order, security, and economic dynamics across the Asia-Pacific." },
+      { "title": "Indonesia's Foreign Policy", "description": "Indonesia's diplomacy, strategic posture, and role in the Indo-Pacific." }
+    ]
+  },
+  "media": {
+    "heading": "Media & Commentary",
+    "subheading": "Interviews, op-eds, and press mentions.",
+    "types": {
+      "interview": "Interview",
+      "commentary": "Commentary",
+      "press_mention": "Press Mention"
+    },
+    "emptyTitle": "Media inquiries welcome",
+    "emptyBody": "For interviews and commentary on the Indo-Pacific, US–China relations, or terrorism studies, please get in touch.",
+    "emptyCta": "Contact for media"
+  },
+  "cv": {
+    "heading": "Curriculum Vitae",
+    "summary": "A full record of academic appointments, degrees, peer-reviewed publications, and professional service is available in the downloadable CV.",
+    "download": "Download CV (PDF)",
+    "lastUpdated": "Last updated: {date}",
+    "unavailable": "CV is being updated and will be available shortly."
+  },
+  "contact": {
+    "heading": "Contact",
+    "infoHeading": "Get in touch",
+    "email": "Email",
+    "institution": "Institution",
+    "institutionValue": "Department of International Relations, FISIP, Universitas Airlangga, Surabaya 60115, Indonesia",
+    "profiles": "Profiles",
+    "mediaNote": "For media and speaking enquiries, please include your publication or event name and your deadline.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Department of International Relations · FISIP · Universitas Airlangga"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Ahmad Safril Mubah — Akademisi Hubungan Internasional",
+    "description": "Portofolio akademik Ahmad Safril Mubah, Wakil Dekan dan Dosen Hubungan Internasional di FISIP, Universitas Airlangga. Riset tentang Indo-Pasifik, persaingan AS–Tiongkok, soft power, dan terorisme."
+  },
+  "nav": {
+    "about": "Tentang",
+    "research": "Riset",
+    "publications": "Publikasi",
+    "teaching": "Pengajaran",
+    "media": "Media",
+    "cv": "CV",
+    "contact": "Kontak",
+    "downloadCv": "Unduh CV",
+    "menu": "Menu"
+  },
+  "toggles": {
+    "theme": "Ganti mode terang/gelap",
+    "locale": "Ganti bahasa"
+  },
+  "hero": {
+    "credentials": "S.IP., M.Hub.Int., Ph.D.",
+    "title": "Wakil Dekan & Dosen · Departemen Hubungan Internasional",
+    "institution": "FISIP · Universitas Airlangga",
+    "tagline": "Peneliti pada titik temu antara kekuasaan, diplomasi, dan tatanan Indo-Pasifik.",
+    "viewPublications": "Lihat Publikasi",
+    "downloadCv": "Unduh CV",
+    "photoAlt": "Potret Ahmad Safril Mubah"
+  },
+  "about": {
+    "heading": "Tentang",
+    "bio1": "Ahmad Safril Mubah adalah Wakil Dekan dan Dosen di Departemen Hubungan Internasional, Fakultas Ilmu Sosial dan Ilmu Politik (FISIP), Universitas Airlangga. Ia meraih gelar Ph.D. dalam bidang Studi Asia Pasifik dari National Chengchi University (Taiwan) dan berspesialisasi dalam geopolitik Indo-Pasifik, persaingan strategis AS–Tiongkok, soft power, serta dinamika terorisme di era globalisasi.",
+    "bio2": "Risetnya telah diterbitkan di jurnal-jurnal bereputasi internasional seperti Issues and Studies dan Journal of Marine and Island Cultures, dan telah dikutip lebih dari 560 kali di Google Scholar dan Scopus. Ia aktif sebagai reviewer di Jurnal Hubungan Internasional dan peneliti di Cakra Studi Global Strategis FISIP UNAIR.",
+    "educationHeading": "Pendidikan",
+    "education": [
+      { "degree": "Ph.D. · Studi Asia Pasifik", "institution": "National Chengchi University, Taiwan" },
+      { "degree": "M.Hub.Int. · Hubungan Internasional", "institution": "Universitas Airlangga" },
+      { "degree": "S.IP. · Hubungan Internasional", "institution": "Universitas Airlangga" }
+    ],
+    "metrics": [
+      { "value": "562+", "label": "Sitasi" },
+      { "value": "3", "label": "h-index Scopus" },
+      { "value": "18+", "label": "Tahun Berkarya" }
+    ]
+  },
+  "research": {
+    "heading": "Tema Riset",
+    "subheading": "Empat arah kajian yang membentuk karya ini."
+  },
+  "publications": {
+    "heading": "Publikasi",
+    "filters": {
+      "all": "Semua",
+      "article": "Artikel Jurnal",
+      "book": "Buku",
+      "chapter": "Bab Buku"
+    },
+    "sort": {
+      "newest": "Terbaru",
+      "cited": "Paling banyak disitasi"
+    },
+    "citations": "{count, plural, other {# sitasi}}",
+    "types": {
+      "article": "Artikel",
+      "book": "Buku",
+      "chapter": "Bab"
+    },
+    "viewAll": "Lihat semua di Google Scholar",
+    "empty": "Publikasi akan segera tampil di sini."
+  },
+  "teaching": {
+    "heading": "Pengajaran",
+    "subheading": "Mata kuliah yang diampu di Departemen Hubungan Internasional.",
+    "syllabus": "Silabus",
+    "courses": [
+      { "title": "Studi Terorisme", "description": "Jaringan ekstremis transnasional, kontra-terorisme, dan politik kekerasan." },
+      { "title": "Globalisasi & Masyarakat Informasi", "description": "Bagaimana arus global informasi, modal, dan manusia membentuk ulang negara dan masyarakat." },
+      { "title": "Analisis Politik Luar Negeri", "description": "Kerangka untuk memahami bagaimana negara membuat dan membenarkan keputusan politik luar negeri." },
+      { "title": "Studi Asia Pasifik", "description": "Tatanan regional, keamanan, dan dinamika ekonomi di kawasan Asia-Pasifik." },
+      { "title": "Politik Luar Negeri Indonesia", "description": "Diplomasi Indonesia, postur strategis, dan peran dalam Indo-Pasifik." }
+    ]
+  },
+  "media": {
+    "heading": "Media & Komentar",
+    "subheading": "Wawancara, opini, dan liputan media.",
+    "types": {
+      "interview": "Wawancara",
+      "commentary": "Komentar",
+      "press_mention": "Liputan Media"
+    },
+    "emptyTitle": "Permintaan media disambut baik",
+    "emptyBody": "Untuk wawancara dan komentar tentang Indo-Pasifik, hubungan AS–Tiongkok, atau studi terorisme, silakan hubungi.",
+    "emptyCta": "Hubungi untuk media"
+  },
+  "cv": {
+    "heading": "Curriculum Vitae",
+    "summary": "Catatan lengkap jabatan akademik, gelar, publikasi tinjauan sejawat, dan layanan profesional tersedia dalam CV yang dapat diunduh.",
+    "download": "Unduh CV (PDF)",
+    "lastUpdated": "Terakhir diperbarui: {date}",
+    "unavailable": "CV sedang diperbarui dan akan segera tersedia."
+  },
+  "contact": {
+    "heading": "Kontak",
+    "infoHeading": "Hubungi",
+    "email": "Surel",
+    "institution": "Institusi",
+    "institutionValue": "Departemen Hubungan Internasional, FISIP, Universitas Airlangga, Surabaya 60115, Indonesia",
+    "profiles": "Profil",
+    "mediaNote": "Untuk permintaan media dan undangan berbicara, mohon sertakan nama publikasi atau acara Anda beserta tenggat waktu.",
+    "form": {
+      "name": "Nama",
+      "email": "Surel",
+      "subject": "Subjek",
+      "message": "Pesan",
+      "send": "Kirim pesan"
+    }
+  },
+  "footer": {
+    "rights": "Hak cipta dilindungi.",
+    "builtWith": "Departemen Hubungan Internasional · FISIP · Universitas Airlangga"
+  }
+}
